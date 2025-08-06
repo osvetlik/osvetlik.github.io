@@ -1,1 +1,5 @@
-theme: jekyll-theme-minima
+jekyll-remote-theme: jekyll/minima
+plugins:
+- jekyll-remote-theme
+minima:
+  skin: auto
