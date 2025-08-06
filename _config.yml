@@ -2,5 +2,4 @@ theme: minima
 minima:
   skin: dark
 title: Accidentally Unexpected
-author:
-  name: Ondřej Světlík
+author: Ondřej Světlík
