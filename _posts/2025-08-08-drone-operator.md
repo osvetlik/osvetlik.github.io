@@ -47,7 +47,7 @@ Another bang—there’s the flash.
 I guide the drone toward the flashes.  
 *Seventy seconds. Feels like forever.*
 
-I see him. This is real, a part of me is yelling. No time to panic.
+I see him. *This is real,* a part of me is yelling. No time to panic.
 
 I hit the button.  
 “Attacker on the third floor, cosmetics department!”  
