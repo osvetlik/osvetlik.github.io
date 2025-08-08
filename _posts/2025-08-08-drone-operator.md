@@ -15,8 +15,6 @@ I don't think so.
 
 ## Action
 
-Operator Log: “Seventy-Eight Seconds”
-
 An alarm interrupts my thoughts.  
 There’s a severe incident somewhere nearby.  
 I jump from my chair—controller, goggles. The drone’s already in the air, waiting for me.
