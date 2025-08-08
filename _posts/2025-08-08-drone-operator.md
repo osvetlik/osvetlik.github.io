@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Operator Log: “Seventy-Eight Seconds”
+title: 'Operator Log: “Seventy-Eight Seconds”'
 tags: [musings]
 categories: [adhd-tangents]
 ---
